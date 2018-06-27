@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="352.0" prefWidth="423.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="352.0" fitWidth="422.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@finallll.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@1179514.gif" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="268.0" layoutY="150.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@1179514.gif" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="49.0" fitWidth="50.0" layoutX="117.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@x.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="111.0" fitWidth="140.0" layoutX="175.0" layoutY="96.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@wins.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="-6.0" layoutY="150.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@1179514.gif" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="131.0" layoutY="51.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@1179514.gif" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="268.0" layoutY="9.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@1179514.gif" />
+         </image>
+      </ImageView>
+      <Button layoutX="14.0" layoutY="269.0" mnemonicParsing="false" opacity="0.0" prefHeight="34.0" prefWidth="121.0" text="Button" />
+      <Button layoutX="151.0" layoutY="269.0" mnemonicParsing="false" opacity="0.0" prefHeight="34.0" prefWidth="121.0" text="Button" />
+      <Button layoutX="288.0" layoutY="269.0" mnemonicParsing="false" opacity="0.0" prefHeight="34.0" prefWidth="121.0" text="Button" />
+   </children>
+</Pane>

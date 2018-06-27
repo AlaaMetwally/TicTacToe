@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="352.0" prefWidth="423.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="352.0" fitWidth="422.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@network3.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="138.0" layoutY="233.0" mnemonicParsing="false" opacity="0.0" prefHeight="38.0" prefWidth="71.0" text="Button" />
+      <Button layoutX="223.0" layoutY="233.0" mnemonicParsing="false" opacity="0.0" prefHeight="38.0" prefWidth="71.0" text="Button" />
+      <TextField layoutX="140.0" layoutY="161.0" prefHeight="29.0" prefWidth="153.0" />
+   </children>
+</Pane>
